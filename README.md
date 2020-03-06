@@ -1,24 +1,12 @@
-# Monitoring Panel Surya
+# Praktikum Sensor dan Aktuator
 
-Project pertama praktikum sensor aktuator yaitu memonitoring arus dan tegangan yang di hasilkan oleh panel surya serta yang terpakai dari battery.
+Mata kuliah semester 6  
+Tahun ajaran `2020`
 
-## Pre-request
+## Modul
 
-### Basic Knowledge
-- [x] Web Programming
-- [x] Arduino
-- [x] Elektrical
-
-### Tools
-- [x] [NodeJS](https://nodejs.org/en/download/) `Server-side Javascript runtime environment`
-- [x] [Google Chrome](https://www.google.com/chrome/) `Browser`
-- [x] [Visual Studio Code](https://code.visualstudio.com/) `Text Editor`
-
-
-## Scheme
-
-### Monitor System Circuit
-![Electrical Circuit](electrical_schem.jpg "Electrical Circuit")
-
-### Power System Circuit
-![Power Circuit](power_schem.jpg "Power Circuit")
+1. Monitoring daya pada PLTS dan intensitas cahaya
+2. Line follower PID dan manual
+3. Table shaker monitoring dan kontrol PWM
+4. Kualitas Mutu Udara, Asap, Tekanan, Temperatur dan Kelembapan
+5. Ketinggian air dan kecepatan aliran air serta alarm buzzer
